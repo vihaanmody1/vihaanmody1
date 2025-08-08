@@ -17,11 +17,11 @@
 
 ### 👨‍💻 Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=py,react,tailwind,vite,bash,md,git,js,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,react,tailwind,vite,bash,md,ts,js,html,css&theme=dark)](https://skillicons.dev)
 
 ### 🧰 Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=pytorch,flask,opencv,nextjs,anaconda,npm,nodejs,django,fastapi&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,flask,opencv,nextjs,anaconda,npm,nodejs,django,fastapi,git&theme=dark)](https://skillicons.dev)
 
 ### Softwares & Services
 
