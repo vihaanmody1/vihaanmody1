@@ -13,18 +13,18 @@
 
 ### 💻 Environments
 
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,apple,kali,arch,raspberrypi,replit&theme=dark)](https://skillicons.dev)
+[![My Skills](https://github.com/vihaanmody1/icons?i=windows,linux,apple,kali,arch,raspberrypi,replit&theme=dark)](https://github.com/vihaanmody1)
 
 ### 👨‍💻 Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=py,react,tailwind,vite,bash,md,ts,js,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://github.com/vihaanmody1/icons?i=py,react,tailwind,vite,bash,md,ts,js,html,css&theme=dark)](https://github.com/vihaanmody1)
 
 ### 🧰 Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=pytorch,flask,opencv,nextjs,anaconda,npm,nodejs,django,fastapi,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://github.com/vihaanmody1/icons?i=pytorch,flask,opencv,nextjs,anaconda,npm,nodejs,django,fastapi,git&theme=dark)](https://github.com/vihaanmody1)
 
 ### Softwares & Services
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,github,gitlab,pycharm,netlify,vercel,firebase,stackoverflow,arduino&theme=dark)](https://skillicons.dev)
+[![My Skills](https://github.com/vihaanmody1/icons?i=vscode,visualstudio,github,gitlab,pycharm,netlify,vercel,firebase,stackoverflow,arduino&theme=dark)](https://github.com/vihaanmody1)
 
 <img src="https://raw.githubusercontent.com/SelfMadeSystem/SelfMadeSystem/main/wave-bottom.svg">
