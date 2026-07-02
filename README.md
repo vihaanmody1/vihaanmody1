@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/SelfMadeSystem/SelfMadeSystem/4db1454ab1db74ec58ea2b64cf026e6c67015c2d/wave-top.svg">
+<img src="wave-top.svg">
 
 
 <h2>
@@ -27,4 +27,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,github,gitlab,pycharm,netlify,vercel,firebase,stackoverflow,arduino&theme=dark)](https://github.com/vihaanmody1)
 
-<img src="https://raw.githubusercontent.com/SelfMadeSystem/SelfMadeSystem/main/wave-bottom.svg">
+<img src="wave-bottom.svg">
